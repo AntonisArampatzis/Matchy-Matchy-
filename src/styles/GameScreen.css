@@ -1,0 +1,14 @@
+.GameScreen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* Vertically center content */
+    align-items: center;
+    /* Horizontally center content */
+    height: 100vh;
+    /* Full viewport height */
+    width: 100%;
+    /* Ensure it takes up the full width */
+    padding: 0 20px;
+    /* Optional: add horizontal padding for spacing */
+}
